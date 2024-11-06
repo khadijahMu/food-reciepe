@@ -11,7 +11,7 @@ body {
     padding: 20px;
     text-align: center;
 }
-/* Header style */
+/* Header styles*/
 header {
     margin-bottom: 20px;
 }
@@ -21,7 +21,7 @@ h1 {
 p {
     color: #ff9f68;
 }
-/* Meal container  */
+/* Meals container */
 .meal-container {
     display: grid;
     gap: 20px;
