@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 .catch(error => console.error('Error fetching meal:', error));
             mealPromises.push(mealPromise);
         }
-        // Wait for the fetching action to complete
+        // Wait for the fetching action to finish
         const mealData = await Promise.all(mealPromises);
         renderMeals(mealData);
     }
