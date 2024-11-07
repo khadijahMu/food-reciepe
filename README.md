@@ -25,6 +25,9 @@
 
 Check out the live demo of the project: [Live Demo Link](https://food-reciepe.onrender.com)
 
+## Loom video link
+https://www.loom.com/share/7335762263c940c2ac59142bd4801dcf?sid=537f16c8-388f-4443-86fe-13e0614423ec
+
 ## Features
 
 - An easy meal finder.
